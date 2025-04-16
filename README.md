@@ -53,7 +53,7 @@
 
 #### 🎮 [BlackJack](https://github.com/BrandonL02/BlackJack)
 
-> A simple yet fun BlackJack game written in Python that also visualizes win/loss/tie statistics for deeper gameplay insight!
+> A simple yet fun BlackJack game written in Python that also visualizes win/loss/tie statistics
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" />
