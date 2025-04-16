@@ -60,7 +60,7 @@
     </td>
     <td>
       <a href="https://github.com/BrandonL02/Global-Note-Program">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=Global-Note-Program&theme=tokyonight" alt="Global-Note-Program repo card">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=GlobalNote-Program&theme=tokyonight" alt="Global-Note-Program repo card">
       </a>
     </td>
   </tr>
