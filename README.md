@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Brandon 👋</h1>
+<h1>Hi, I'm Brandon 👋</h1>
 
-<p align="center">
+<p>
   💻 Data Science & Machine Learning Enthusiast <br>
   🤝 Open to any and all learning opportunities <br>
   📧 brandonlatimer123@hotmail.com
@@ -43,7 +43,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonL02&layout=compact&theme=tokyonight" />
 </p>
 
@@ -55,7 +55,7 @@
 
 > A simple yet fun BlackJack game written in Python that also visualizes win/loss/tie statistics for deeper gameplay insight!
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" />
 </p>
 
