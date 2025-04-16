@@ -51,13 +51,20 @@
 
 ### 📌 Pinned Projects
 
-#### 🎮 [BlackJack](https://github.com/BrandonL02/BlackJack)
-
-> A simple yet fun BlackJack game written in Python that also visualizes win/loss/tie statistics
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/BrandonL02/BlackJack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" alt="BlackJack repo card">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BrandonL02/Global-Note-Program">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=Global-Note-Program&theme=tokyonight" alt="Global-Note-Program repo card">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
