@@ -49,14 +49,14 @@
 
 ---
 
-### 📌 Pinned Project
+### 📌 Pinned Projects
 
 #### 🎮 [BlackJack](https://github.com/YOUR_GITHUB_USERNAME/BlackJack)
 
 > A simple yet fun BlackJack game written in Python that also visualizes win/loss/tie statistics for deeper gameplay insight!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02E&repo=BlackJack&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" />
 </p>
 
 ---
