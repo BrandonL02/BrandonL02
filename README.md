@@ -51,7 +51,7 @@
 
 ### 📌 Pinned Projects
 
-#### 🎮 [BlackJack](https://github.com/YOUR_GITHUB_USERNAME/BlackJack)
+#### 🎮 [BlackJack](https://github.com/BrandonL02/BlackJack)
 
 > A simple yet fun BlackJack game written in Python that also visualizes win/loss/tie statistics for deeper gameplay insight!
 
