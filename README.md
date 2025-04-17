@@ -44,7 +44,7 @@
 ### 📈 GitHub Stats
 
 <p>
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonL02&theme=tokyonight)>
 </p>
 
 ---
