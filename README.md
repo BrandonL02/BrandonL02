@@ -51,7 +51,7 @@
 
 ### 📌 Pinned Projects
 
-<table>
+<table border="0">
   <tr>
     <td>
       <a href="https://github.com/BrandonL02/BlackJack">
