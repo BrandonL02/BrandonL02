@@ -70,6 +70,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=CFASetupAutomation&theme=tokyonight" alt="CFASetupAutomation repo card">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/BrandonL02/StudentClassRoster">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=StudentClassRoster&theme=tokyonight" alt="StudentClassRoster repo card">
+      </a>
+    </td>
   </tr>
 </table>
 
