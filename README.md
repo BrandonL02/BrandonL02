@@ -44,7 +44,9 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img alt="BrandonL02's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonL02&langs_count=3&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&height="198px"/>
+  <img alt="BrandonL02's Top Languages" 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonL02&langs_count=3&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&icon_color=8be9fd&border_color=30363d" />
+
 
 </p>
 
