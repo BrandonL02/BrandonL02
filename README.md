@@ -44,7 +44,7 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonL02"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonL02&theme=tokyonight"/>
 
 </p>
 
