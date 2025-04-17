@@ -51,14 +51,22 @@
 
 ### 📌 Pinned Projects
 
-<div align="center">
-  <a href="https://github.com/BrandonL02/BlackJack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" alt="BlackJack repo card">
-  </a>
-  <a href="https://github.com/BrandonL02/Global-Note-Program">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=GlobalNoteProgram&theme=tokyonight" alt="Global-Note-Program repo card">
-  </a>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/BrandonL02/BlackJack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" alt="BlackJack repo card">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BrandonL02/Global-Note-Program">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=GlobalNoteProgram&theme=tokyonight" alt="Global-Note-Program repo card">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ---
