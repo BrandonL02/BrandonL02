@@ -63,6 +63,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=GlobalNoteProgram&theme=tokyonight" alt="Global-Note-Program repo card">
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/BrandonL02/CFASetupAutomation">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=CFASetupAutomation&theme=tokyonight" alt="CFASetupAutomation repo card">
