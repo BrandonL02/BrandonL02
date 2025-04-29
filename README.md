@@ -56,7 +56,7 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://github.com/BrandonL02/HomFinder">
+      <a href="https://github.com/BrandonL02/HomeFinder">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=HomeFinder&theme=tokyonight" alt="HomeFinder repo card">
       </a>
     </td>
