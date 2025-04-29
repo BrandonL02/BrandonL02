@@ -65,11 +65,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" alt="BlackJack repo card">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/BrandonL02/Global-Note-Program">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=GlobalNoteProgram&theme=tokyonight" alt="Global-Note-Program repo card">
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
@@ -78,8 +73,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/BrandonL02/StudentClassRoster">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=StudentClassRoster&theme=tokyonight" alt="StudentClassRoster repo card">
+      <a href="https://github.com/BrandonL02/Global-Note-Program">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=GlobalNoteProgram&theme=tokyonight" alt="Global-Note-Program repo card">
       </a>
     </td>
   </tr>
