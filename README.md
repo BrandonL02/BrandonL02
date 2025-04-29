@@ -56,6 +56,11 @@
 <table border="0">
   <tr>
     <td>
+      <a href="https://github.com/BrandonL02/HomeFinder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=HomeFinder&theme=tokyonight" alt="HomeFinder repo card">
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/BrandonL02/BlackJack">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" alt="BlackJack repo card">
       </a>
