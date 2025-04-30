@@ -1,6 +1,7 @@
 <h1>Hi, I'm Brandon 👋</h1>
 
-<img src="https://camo.githubusercontent.com/23ade8cd3eadafb68b58fa25f8df2a2e5357ae0ae126b85647139dea849bbc9f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416e6e617268797361267374796c653d666c61742d73717561726526636f6c6f723d626c7565" alt="Profile views" data-canonical-src="https://komarev.com/ghpvc/?username=BrandonL02&amp;style=flat-square&amp;color=blue" style="max-width: 100%;">
+<img src="https://komarev.com/ghpvc/?username=BrandonL02&abbreviated=true">
+
 <p>
   💻 Data Science & Machine Learning Enthusiast <br>
   🤝 Open to any and all learning opportunities <br>
