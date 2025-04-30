@@ -1,7 +1,5 @@
 <h1>Hi, I'm Brandon 👋</h1>
 
-<img src="https://komarev.com/ghpvc/?username=BrandonL02&abbreviated=true">
-
 <p>
   💻 Data Science & Machine Learning Enthusiast <br>
   🤝 Open to any and all learning opportunities <br>
