@@ -1,8 +1,9 @@
 <h1>Hi, I'm Brandon 👋</h1>
 
 <p>
-  💻 Data Science & Machine Learning Enthusiast <br>
-  🤝 Open to any and all learning opportunities <br>
+  💻 Data Analyst <br>
+  📜 Bachelor's degree in Computer Science <br>
+  🤝 Open to any and all ML and data analysis learning opportunities <br>
   📧 brandonlatimer123@hotmail.com
 </p>
 
@@ -13,7 +14,7 @@
 - 📊 I’m passionate about discovering insights through data.
 - 🤖 Currently diving deeper into machine learning projects.
 - 🌱 Always learning something new in tech and data.
-- 🛠️ I enjoy building things that blend logic with creativity.
+- 🛠️ I enjoy building things that serve a practical purpose in my role and/or day-to-day life.
 
 ---
 
