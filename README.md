@@ -1,5 +1,3 @@
-<h1>Hi, I'm Brandon 👋</h1>
-
 <p>
   💻 Data Analyst <br>
   📜 Bachelor's degree in Computer Science <br>
