@@ -88,6 +88,22 @@ I'm continuing to expand beyond data analysis and model training into the engine
 
 ## 📌 Featured Projects
 
+### [Environmental Health Risk Prediction](https://github.com/BrandonL02/Health-Risk-Score-Predictor)
+
+Machine learning regression project predicting environmental health risk scores using Decision Tree, Random Forest, and Gradient Boosting models with hyperparameter optimization.
+
+**Focus:** Machine Learning • Ensemble Models • Hyperparameter Tuning • Model Evaluation
+
+---
+
+### [Employee Satisfaction Prediction](https://github.com/BrandonL02/Employee-satisfaction-regression)
+
+Machine learning project predicting employee satisfaction levels using a Decision Tree Regressor with data preprocessing, cross-validation, and Grid Search optimization.
+
+**Focus:** Machine Learning • Data Preprocessing • Cross-Validation • Hyperparameter Tuning
+
+---
+
 ### [CFA Setup Automation](https://github.com/BrandonL02/CFASetupAutomation)
 
 Python automation project built to simplify repetitive browser-based workflows and data collection using Selenium.
@@ -100,23 +116,7 @@ Python automation project built to simplify repetitive browser-based workflows a
 
 Software project focused on building a practical application to solve a real-world problem.
 
-**Focus:** Software Development • Application Design
-
----
-
-### [BlackJack](https://github.com/BrandonL02/BlackJack)
-
-Programming project demonstrating object-oriented programming, application logic, and software development fundamentals.
-
-**Focus:** Programming • OOP • Application Logic
-
----
-
-### [Global Note Program](https://github.com/BrandonL02/Global-Note-Program)
-
-Application designed around organizing and managing information through a practical user-facing tool.
-
-**Focus:** Software Development • Application Design
+**Focus:** Software Development • Application Design • Data Analysis • Data Visualization
 
 ---
 
