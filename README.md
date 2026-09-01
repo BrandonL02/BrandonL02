@@ -1,100 +1,141 @@
-<p>
-  💻 Data Analyst <br>
-  📜 Bachelor's degree in Computer Science <br>
-  🤝 Open to any and all ML and data analysis learning opportunities <br>
-  📧 brandonlatimer123@hotmail.com
-</p>
+# Brandon Latimer
+
+**Data Analyst | B.S. Computer Science | Building toward Machine Learning Engineering**
+
+Python • Data Analysis • Automation • Machine Learning
+
+I enjoy using data and software to solve practical problems, automate repetitive processes, and build tools that make work more efficient.
+
+📧 **Contact:** brandonlatimer123@hotmail.com
 
 ---
 
-### 👐 About Me
+## 👨‍💻 About Me
 
-- 📊 I’m passionate about discovering insights through data.
-- 🤖 Currently diving deeper into machine learning projects.
-- 🌱 Always learning something new in tech and data.
-- 🛠️ I enjoy building things that serve a practical purpose in my role and/or day-to-day life.
+- Data Analyst with professional experience turning quantitative and qualitative data into actionable insights.
+- Use Python and pandas for data cleaning, transformation, analysis, and automation.
+- Build automated reporting, communication, and data collection workflows.
+- Experience creating dashboards, trend analyses, and recurring insight reports.
+- Apply machine learning techniques including decision trees, random forests, gradient boosting, feature engineering, hyperparameter tuning, and model evaluation.
+- Currently expanding my skills in machine learning, data engineering, model deployment, and MLOps.
+- Long-term goal: **Machine Learning Engineer**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages & Tools:**
+### Languages & Data
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Machine Learning & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Altair-FF5A00?style=for-the-badge&logo=vega&logoColor=white" />
+</p>
+
+### Automation & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+### Analytics & Applications
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### Additional Technologies
+
+<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-
-</p>
-
-
-**Libraries I use:**
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Altair-FF5A00?style=for-the-badge&logo=altair&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🚧 Currently Building Toward
 
-<p>
-  <img alt="BrandonL02's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonL02&hide=html&langs_count=3&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&height="198px"/>
-</p>
+I'm continuing to expand beyond data analysis and model training into the engineering side of machine learning, with a focus on:
 
----
-
-### 📌 Pinned Projects
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/BrandonL02/HomeFinder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=HomeFinder&theme=tokyonight" alt="HomeFinder repo card">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/BrandonL02/BlackJack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=BlackJack&theme=tokyonight" alt="BlackJack repo card">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/BrandonL02/CFASetupAutomation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=CFASetupAutomation&theme=tokyonight" alt="CFASetupAutomation repo card">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/BrandonL02/Global-Note-Program">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonL02&repo=GlobalNoteProgram&theme=tokyonight" alt="Global-Note-Program repo card">
-      </a>
-    </td>
-  </tr>
-</table>
+- End-to-end machine learning projects
+- Data pipelines and feature engineering
+- Model deployment
+- Automated training and scoring workflows
+- Model monitoring and experimentation
+- MLOps and CI/CD
+- Cloud-based ML systems
+- Open-source contributions
 
 ---
 
+## 📌 Featured Projects
+
+### [CFA Setup Automation](https://github.com/BrandonL02/CFASetupAutomation)
+
+Python automation project built to simplify repetitive browser-based workflows and data collection using Selenium.
+
+**Focus:** Python • Selenium • Automation
 
 ---
 
-### 🚀 Let's Connect
+### [HomeFinder](https://github.com/BrandonL02/HomeFinder)
 
-- 📨 Feel free to email me at **brandonlatimer123@hotmail.com**
-- 🤝 I’m always excited to work on new and interesting data science projects!
+Software project focused on building a practical application to solve a real-world problem.
+
+**Focus:** Software Development • Application Design
 
 ---
+
+### [BlackJack](https://github.com/BrandonL02/BlackJack)
+
+Programming project demonstrating object-oriented programming, application logic, and software development fundamentals.
+
+**Focus:** Programming • OOP • Application Logic
+
+---
+
+### [Global Note Program](https://github.com/BrandonL02/Global-Note-Program)
+
+Application designed around organizing and managing information through a practical user-facing tool.
+
+**Focus:** Software Development • Application Design
+
+---
+
+## 🎯 Current Direction
+
+My goal is to combine my background in computer science, professional data analysis experience, and interest in automation to move deeper into **Machine Learning Engineering**.
+
+I'm particularly interested in projects that go beyond training a model and include the surrounding engineering:
+
+**Data → Processing → Feature Engineering → Model Training → Evaluation → Deployment → Monitoring**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with people working in:
+
+**Machine Learning • Data Engineering • Data Science • Automation • Software Engineering**
+
+If you're working on an interesting problem, open-source project, or opportunity in one of these areas, feel free to reach out.
+
+📧 **brandonlatimer123@hotmail.com**
